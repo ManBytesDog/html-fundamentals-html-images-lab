@@ -98,7 +98,7 @@ any images you'd like - the tests are looking for the correct tag and
 attributes, not the content.  If you're not sure what to use, feel free to use
 the following URL as your source:
 
-https://s3.amazonaws.com/ironboard-learn/lion.jpg
+https://s3.amaz onaws.com/ironboard-learn/lion.jpg
 
 ![lion](https://s3.amazonaws.com/ironboard-learn/lion.jpg)
 
